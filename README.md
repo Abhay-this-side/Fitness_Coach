@@ -1,9 +1,10 @@
 # Fitness_Coach👨‍💻
 Designed to combine fitness and technology and potentially turning this idea into a SaaS business of their own.
+
 Try my app [Dictator](https://t.me/RES_P_bot)
 
 ## Inspiration 💡
-As an employed person who have less time to look after their diet and exercise and timings, I have provided a one-stop solution to their needs
+As an employed person who has less time to look after their diet, exercise and timings, I have provided a one-stop solution to their needs
 
 ## What it does 💪
 It gives the answers using ChatGPT API and gives notifications to the user on scheduled times and diet according to needs.
