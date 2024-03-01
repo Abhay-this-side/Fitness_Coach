@@ -3,12 +3,10 @@ Designed to combine fitness and technology and potentially turning this idea int
 Try my app [Dictator](https://t.me/RES_P_bot)
 
 ## Inspiration 💡
-As an undergraduate students who have less time to scroll over the internet, I have provided a one-stop solution to their project findings
+As an employed person who have less time to look after their diet and exercise and timings, I have provided a one-stop solution to their needs
 
 ## What it does 💪
-It provides the project based on the **language** the user wants and gives them a **pdf file** of the project based on that language
-- /start: starts the bot
-* /language: enter the language in the format /language python
+It gives the answers using ChatGPT API and gives notifications to the user on scheduled times and diet according to needs.
   
 ## How I built it 🛠
 Created a bot from telegram **BotFather** and used the **bot token** and connected telegram and python using different libraries. I created a Telegram bot using python-telegram-bot and telethon libraries and deployed it on MySQL workbench using my-sql-connector. Set up my database using SQL to store the different languages(for instance only 9 languages are supported by the bot)
